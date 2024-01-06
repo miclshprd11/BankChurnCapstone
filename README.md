@@ -1,4 +1,4 @@
-#Bank Churn Classifier findings summary
+**Bank Churn Classifier findings summary**
 Michael Shepherd
 
 **Summary**
