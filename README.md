@@ -1,4 +1,4 @@
-# Capstone Evaluation
+#Bank Churn Classifier findings summary
 Michael Shepherd
 
 **Summary**
